@@ -6,7 +6,15 @@ This is a CRUD Restful API Made in C# following the Model View Controller Archit
 <img src ="https://user-images.githubusercontent.com/91668778/211181144-3f18c307-9de5-4ed3-83d9-29934dea440d.svg" alt="C#_Logo" width=50>
 (seeklogo, C# Logo 2022)
 
-
+### How to Run
+    1. Create a MS SQL Server Database
+    2. Run Scripts Found in "SqlServerScripts"
+    3. Adjust Connection String found in https://github.com/Damon-Martin/CS-Web-API-Plym-Uni/blob/main/TrailAPI/appsettings.json
+    3. (Note Original DB is different due to University Ownership and is for assesment)
+    4. Open project using the sln file using Visual Studio 2022
+    5. Run Project (Can use the API as intended or use Swagger/OpenAPI)
+    
+## API Usage Description
 ## Authors Table
     HTTP GET
     URI: http://secam_or_localhost.com/API/Authors
