@@ -1,4 +1,6 @@
 # TrailAPI: Web API Command Specification
+### Module: Information Management & Retrieval
+### University: University of Plymouth
 ### Student ID: 10729705
 This is a CRUD Restful API Made in C# following the Model View Controller Architectual Pattern. This manipulates my TrailService SQL Server Data Base using controllers that manipulate the DbContext that holds all the models.
 
