@@ -13,7 +13,12 @@ This is a CRUD Restful API Made in C# following the Model View Controller Archit
     3. (Note Original DB is different due to University Ownership and is for assesment)
     4. Open project using the sln file using Visual Studio 2022
     5. Run Project (Can use the API as intended or use Swagger/OpenAPI)
-    
+
+## MS SQL Database Design
+<img src="https://user-images.githubusercontent.com/91668778/217995066-d335dd69-2676-4f48-bc8a-3f2f0a1d9e8b.png" alt="ERD and Normalisation" width="700">
+
+
+
 ## API Usage Description
 ## Authors Table
     HTTP GET
